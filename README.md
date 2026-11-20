@@ -11,11 +11,23 @@ The skin support should load any .wsz format skin. If you download one that happ
 Some features:
 
 Full skin support
+
 Directory browsing
+
 Playlist support - .m3u loading and creation
+
 EQ support with multiple presets
+
 Locking controls for in pocket playback
+
 Multiple visualizations that can be toggled by touchscreen
+
+Directions:
+
+Drop mp3s in /music
+Winamp .wsz skins in /skins
+Press select to change tabs
+Press start+select to lock the controls
 
 Hopefully this tickles some nostalgia bones.
 
