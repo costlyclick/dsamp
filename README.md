@@ -35,3 +35,6 @@ Press start+select to lock the controls
 Hopefully this tickles some nostalgia bones.
 
 While this is Claude Slop generated, it has gone through a stupid number of revisions before I am happy. I try not to put out anything that I wouldn't want to use myself. Feedback and suggestions are welcome.
+
+<img width="693" height="716" alt="image" src="https://github.com/user-attachments/assets/5096dd39-cb06-4015-b0a2-9c8eaa39f944" />
+
