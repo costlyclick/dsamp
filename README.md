@@ -25,8 +25,11 @@ Multiple visualizations that can be toggled by touchscreen
 Directions:
 
 Drop mp3s in /music
+
 Winamp .wsz skins in /skins
+
 Press select to change tabs
+
 Press start+select to lock the controls
 
 Hopefully this tickles some nostalgia bones.
